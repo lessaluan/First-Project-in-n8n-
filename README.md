@@ -14,4 +14,5 @@ A cada duas horas o gatilho inicial (RSS TRIGGER) busca no site AeroFlap a notí
 
 ## Autor
 Luan Lessa
+
 Data: 09/11/2025
